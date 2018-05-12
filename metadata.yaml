@@ -1,0 +1,36 @@
+_repo: JuggernautA-Veiled-Record_39922
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39922-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+  - agent_name: Marbourg, Dolores
+    birthdate: 1870
+    deathdate: 1934
+    gutenberg_agent_id: '40308'
+    url: http://www.gutenberg.org/2009/agents/40308
+    wikipedia: http://www.gutenberg.org/browse/authors/b#a2265
+description: ''
+gutenberg_issued: '2012-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+title: 'Juggernaut: A Veiled Record'
+url: http://www.gutenberg.org/ebooks/39922
